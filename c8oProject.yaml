@@ -2,4 +2,4 @@
 ↓util_SwitchI18N [core.Project]: 
   comment: Mashup Sequencer project
   ↓void [connectors.SqlConnector]: 🗏 connectors/void.yaml
-  ↓NewSequence [sequences.GenericSequence]: 🗏 sequences/NewSequence.yaml
+  ↓Run [sequences.GenericSequence]: 🗏 sequences/Run.yaml
